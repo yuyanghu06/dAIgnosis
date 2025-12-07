@@ -14,6 +14,13 @@ dist-ssr
 
 # Trainer
 backend/backend_venv
+backend_venv
+test.ipynb
+
+# Training Data
+Data Explorer Report.csv
+data_explorer_embeddings.jsonl
+mistral_med_sft_surgery.jsonl
 
 # Editor directories and files
 .vscode/*
