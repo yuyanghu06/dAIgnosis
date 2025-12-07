@@ -1,5 +1,16 @@
+# Preprocessed datasets
 massSynthDataset
-dAIgnosis-site
-mistral_finetuned_v1_steps
-trainer 
 mistral_med_sft.jsonl
+mistral_med_sft_io.jsonl
+mistral_med_sft_scaled.jsonl
+
+# Frontend/backend build files
+dAIgnosis-site
+
+# Models
+mistral_finetuned_v1_steps
+mistral_finetuned_v3_steps
+
+# Virtual environments
+trainer 
+
